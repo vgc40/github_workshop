@@ -1,5 +1,5 @@
 ---
-title: "2023 RAFWE WFGRS Workshop"
+title: "2025 SFS Github Workshop"
 author: "Christopher Cousins"
 date: "2023-03-30"
 output: html_document
@@ -13,7 +13,7 @@ library(ggplot2)
 ok, let's pull in that model, and the datasets
 first we'll set the working drive, then load from there
 ```{r}
-setwd("C:/PhD/Git/RAFWE.WFGRS.2023")
+setwd("D:/github/github_workshop")
 load("./04.RCodingandFork/simulatedmodels/model.RData")
 load("./04.RCodingandFork/datasetcreation/sallysonwood.RData")
 ```
