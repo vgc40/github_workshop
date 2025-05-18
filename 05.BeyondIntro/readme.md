@@ -10,3 +10,6 @@ One of the coolest things you can do is create alternate [branches](https://docs
 
 You can have github directly in R, Visual Studio Code, TeXstudio, and other programs. That's a bit outside of the scope of this workshop, but it's possible!
 
+## How do you learn more?
+
+I actually just learned about this, but the [Github Student Developer Pack] (https://education.github.com/pack) is free for students! However, you do need to authorize your student status, so I would recommend not doinng this until you are on campus. 
