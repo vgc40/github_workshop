@@ -33,8 +33,8 @@ so let's just export these datasets to our github to use in another script.
 First we'll set the working directory to the github folder (This is where you'll have to change this to match your PC)
 Then we'll export this to the github folder
 ```{r}
-setwd("D:/github/github_workshop")
-save(DBH, Sallys, file = "./04.RCodingandFork/datasetcreation/sallysonwood.RData")
+#setwd("D:/github/github_workshop")
+save(DBH, Sallys, file = paste0(getwd(),"/datasetcreation/sallysonwood.RData"))
 ```
 
 Ok we're done here, let's move on. But first, let's clear our environment
