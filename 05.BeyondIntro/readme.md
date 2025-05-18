@@ -12,4 +12,4 @@ You can have github directly in R, Visual Studio Code, TeXstudio, and other prog
 
 ## How do you learn more?
 
-I actually just learned about this, but the [Github Student Developer Pack] (https://education.github.com/pack) is free for students! However, you do need to authorize your student status, so I would recommend not doinng this until you are on campus. 
+I actually just learned about this, but the [Github Student Developer Pack](https://education.github.com/pack) is free for students! However, you do need to authorize your student status, so I would recommend not doinng this until you are on campus. 
